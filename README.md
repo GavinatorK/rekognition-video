@@ -34,7 +34,7 @@ From within the Team Dashboard, click on "AWS Console" and then "Open AWS Consol
 | Rahul | 1656-0eafb83b24-df |
 
 !!! info
-    These accounts will be available for you to use until close of business on **07/01/2021**
+    These accounts will be available for you to use until close of business on **10/23/2021**
 
 ## Verify Region
 
