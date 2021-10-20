@@ -1,4 +1,4 @@
-# Sagemaker Pipelines Workshop (Cont.)
+# Amazon Rekognition Video Workshop -1
 
 # Getting Started
 
@@ -83,8 +83,6 @@ First we are going to start a SageMaker Studio instance.
 ![](img/10-smstudio-loading.png)
 
 
-
-## Amazon Rekognition Video Workshop-1 
 ### Instructions before running the notebook
 
 1. go to sagemaker console, click on studio and execution role
