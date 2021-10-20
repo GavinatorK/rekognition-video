@@ -23,11 +23,15 @@ From within the Team Dashboard, click on "AWS Console" and then "Open AWS Consol
 
 | Name              | AWS Event Engine Hash |
 | ----------------- | ---------------------- |
-| Extra-2| 3373-037d306604-55 |
-| extra-1| 743b-0e3b3af644-cb |
-| Kevin Jordan| 2199-0e5117c494-b2 |
-| William McCullough| dfc5-03b3300964-7a |
-| Issac Weaver| 7b95-0165aaed64-90 |
+| Larry | 9a7c-08da42c934-0b |
+| Shruthi | 35d7-08aa382744-6d |
+| Lindsay | 74a9-0b50b50cf4-38 |
+| Phil | 35fc-0be1e162f4-a9 |
+| Sean | 19ce-0a131690e4-1d |
+| nonane-1 | 3a9d-05dd3eddd4-1e |
+| Lakulesh | 9d42-06bb430ee4-7a |
+| Jesse | 778c-0efb30d804-a0 |
+| Rahul | 1656-0eafb83b24-df |
 
 !!! info
     These accounts will be available for you to use until close of business on **07/01/2021**
