@@ -78,11 +78,6 @@ First we are going to start a SageMaker Studio instance.
 9. Wait until the SageMaker Studio environment has finished loading (5-10 mins)
 ![](img/10-smstudio-loading.png)
 
-??? optional-class "Jupyter notebook instructions (expand for details)"
-	- Jupyter notebooks tell a story by combining explanatory text and code. There are two types of "cells" in a notebook:  code cells, and "markdown" cells with explanatory text.  
-	- You will be running the code cells.  These are distinguished by having "In" or "[ ]" next to them in the left margin next to the cell, and a greyish background.  Markdown cells lack "In" or "[ ]" and have a blank background.
-	- To run a code cell, simply click in it, then either click the **Play** arrow button in the notebook's toolbar, or use Control+Enter on Windows (Shift+Enter on Mac) from your computer's keyboard.  
-	- It may take a few seconds to a few minutes for a code cell to run (an asterick will appear in "[ ]" when running and will change to a number once execution has completed).  Please run each code cell in order, and only once, to avoid repeated operations.  For example, running the same training job cell twice might create two training jobs, possibly exceeding your service limits.
 
 
 ## Amazon Rekognition Video Workshop-1 
